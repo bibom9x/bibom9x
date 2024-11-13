@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bibom9x
+- 👋 Hi, I’m @bibom
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Cloud Computing
 - 💞️ I’m looking to collaborate on ...
